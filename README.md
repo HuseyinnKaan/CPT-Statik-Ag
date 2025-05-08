@@ -1,5 +1,5 @@
 # CPT-Statik-Ag
-Cisco Packet Tracer ile oluşturulmuş statik yönlendirme topolojisi / A static routing network topology built using Cisco Packet Tracer.
+Cisco Packet Tracer ile oluşturulmuş statik yönlendirme topolojisi
 
 Bu projede küçük ölçekli bir statik ağ tasarımı yapılmıştır. Kullanılan cihazlar:
 - 3 Router
